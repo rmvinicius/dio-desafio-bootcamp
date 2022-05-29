@@ -1,0 +1,40 @@
+Comandos git:
+
+Status e config global:
+
+git config --global user.email "seu e-mail": Configurar o email no git
+git config --global user.name "nickname": Configurar o nome de usuário (usar o mesmo do github)
+git config --list: Informações das configurações
+git status: Status do git
+git remote -v: Status dos branchs
+
+Info:
+
+Sempre criar um arquivo README.md (onde vai conter as informações daquele repositório, utilizar a linguagem mark down, padrão do github)
+
+Configurações:
+
+git init: criar o repositório git naquele diretório
+git add *: Adicionar todos as modificações ao git (Untracked > Unmodified)
+git add nome_do_arquivo: Adicionar o arquivo as modificações do git
+git add nome_do_arquivo pasta_de_destino: Quando um arquivo é movido para outra pasta
+git commit -m "legenda": Criar o commit das alterações realizadas
+git remote add origin url_do_git_hub: Apontar a pasta local ao repositório do git hub (só precisa fazer na primeira vez)
+git push origin master: Enviar os arquivos para o repositório do github
+git pull origin master: Puxar a versão que esta no github para a máquina (nos casos em que houver conflitos de edição
+git clone url: Baixar o repositório de algum autor para a minha maquina
+
+Adicionar diretório pela 1ª vez no github:
+
+git add *
+git commit -m "legenda"
+git remote add origin url
+git push origin master
+
+Update da versão já no github:
+
+git add *
+git commit -m "legenda"
+git push origin master
+
+
