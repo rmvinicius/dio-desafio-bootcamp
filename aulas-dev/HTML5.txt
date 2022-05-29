@@ -1,0 +1,32 @@
+Abrir com uma tag e fechar com a tag
+
+<h1 class="titulo">Título</h1
+
+Tag + atributo + conteúdo
+
+Estrutura:
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta>
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>
+
+Semantica:
+
+<div> Mais comum para utilizar
+<section> Sessão genérica
+<header> cabeçalho da página
+<article> post de blog, noticia, bloco com comentários
+<aside> normalmente representado com barras laterias
+<footer> rodapé da página
+<h1><h6> titulos
+<p> conteúdo do artigo
+<a href> Links
+<a target> Como o link vai ser aberto
+<img src="diretório">
+img alt="Descrição">
