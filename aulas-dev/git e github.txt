@@ -29,12 +29,12 @@ Adicionar diretório pela 1ª vez no github:
 git add *
 git commit -m "legenda"
 git remote add origin url
-git push origin master
+git push origin master/main
 
 Update da versão já no github:
 
 git add *
 git commit -m "legenda"
-git push origin master
+git push origin master/main
 
 
