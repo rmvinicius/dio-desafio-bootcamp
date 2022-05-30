@@ -1,0 +1,19 @@
+Formada por seletores (html) e declarações por {}
+
+Ex:
+
+<h1 {color: blue; font-size: 14px;}>Teste</h1>
+
+No html
+id=""
+class=""
+
+No css
+ID: #header {}
+classe: .header {}
+
+Box model:
+	Margin: Espaçamento entre os elementos
+	Border: Engloba o padding e content, consegue alterar a aparência, como largura e cor
+	Padding: Espaçamento entre a borda e conteúdo
+	Content: É o que o bloco representa

@@ -30,3 +30,6 @@ Semantica:
 <a target> Como o link vai ser aberto
 <img src="diretório">
 img alt="Descrição">
+<ul> Lista com ordem sem numeração
+<ol> Lista com ordem numerada
+<li> Item dessa lista
