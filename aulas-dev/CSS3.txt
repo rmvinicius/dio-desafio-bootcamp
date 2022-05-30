@@ -17,3 +17,71 @@ Box model:
 	Border: Engloba o padding e content, consegue alterar a aparência, como largura e cor
 	Padding: Espaçamento entre a borda e conteúdo
 	Content: É o que o bloco representa
+
+Propriedade Padding:
+
+padding:  10px 5px; | Eixo Y com 10px e Eixo X com 5px
+padding: 15px 10px 5px 0; | Topo, direita, inferior, esqueda
+
+padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px
+
+Propriedade Background:
+
+background-color: blue;
+background-image: url("imagem.png");
+background-position: top;
+
+Propriedade Border:
+
+border: 3px solid blue;
+border-top: 2px dotted green;
+border-right: 4px dashed black;
+
+border-width: 3px;
+border-color: blue;
+border-style: solid;
+
+border-radius: 10px; 50%; 10% 20% 30% 40%; | Deixar a borda arredondada
+
+Propriedade Font-family:
+
+font-family: verdana;
+font-family: verdade, arial; | Colocando uma segunda, serve de backup
+font-size: 30px;
+font-style: normal; italic;
+font-weight: normal; bold;
+text-transform: uppercase, lowercase, capitalize;
+text-decoration: underline; overline; line-through;
+
+Propriedade list-style-type:
+
+list-style-type: square; | Alterar simbolo para quadrado
+list-style-type: upper-roman; | Algarismo romano maiúsculo
+list-style-type: "\1F44D"; | Símbolo
+list-stype-image: url("imagem.png");
+
+Dimensão e alinhamento:
+
+Width
+Height
+
+Max-width
+Max-height
+
+Text align
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
