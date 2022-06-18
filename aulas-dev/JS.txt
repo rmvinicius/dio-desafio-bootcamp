@@ -1,0 +1,24 @@
+Comentários: // ou /* */
+	Atalho VS Code: Ctrl + /
+
+Constante: Não pode ser manipulado
+Variável: Pode alterar ao longo do código
+
+const PRECO = 2;
+var preco = 2;
+
+Função:
+
+function soma(a, b) {
+	return a + b;
+}
+
+soma (2, 3);
+
+console.log(): Debug
+
+-----
+
+Estrutura de pastas (Arquitetura)
+
+- Assets: Ferramentas (imagens, css, js)
